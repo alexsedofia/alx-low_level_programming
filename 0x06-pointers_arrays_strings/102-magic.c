@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - Entry point
+ * Function: a program thats prints 98
+ * Return: always 0(Success)
+ */
 int main(void)
 {
 	int n;
